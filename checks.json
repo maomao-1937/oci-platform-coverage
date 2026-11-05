@@ -1,0 +1,6 @@
+[
+  {"args": ["oci_platform_coverage.py", "fixtures/index.json", "fixtures/requirements-covered.json"], "exit": 0},
+  {"args": ["oci_platform_coverage.py", "fixtures/index.json", "fixtures/requirements-gap.json"], "exit": 1},
+  {"args": ["oci_platform_coverage.py", "fixtures/index.json", "fixtures/requirements-invalid.json"], "exit": 2},
+  {"args": ["oci_platform_coverage.py", "--help"], "exit": 0}
+]

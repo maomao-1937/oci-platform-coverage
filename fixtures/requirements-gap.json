@@ -1,0 +1,5 @@
+[
+  {"os": "linux", "architecture": "arm"},
+  {"os": "linux", "architecture": "arm", "variant": "v7"},
+  {"os": "linux", "architecture": "amd64"}
+]
